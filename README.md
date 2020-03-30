@@ -3,13 +3,21 @@ The code source of the JavaScript simulator with test files
 
 # Structure
 
-.
-+-- index_all_questions.html
-+-- part_css
-|   +-- particles.css
-+-- part_js
-|   +-- footer.html
-|   +-- header.html
-+-- vendor
-+-- README.md
-+-- LICENCE
+```bash
+├──index_all_questions.html
+├── part_css
+│   ├── css
+│   │   ├── **/*.css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.html
+│   ├── js
+│   │   ├── **/*.js
+│   └── partials/template
+├── part_js
+├── vendor
+│   ├── many libraries
+├── README.md
+└── LICENCE
+```
+

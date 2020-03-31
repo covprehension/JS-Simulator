@@ -10,6 +10,7 @@ The code source of the JavaScript simulator used in the CoVprehension.org websit
 ├── part_js
 │   ├── app.js
 │   ├── particles.js
+│   ├── particles_empty.js
 │   └── scripts.js
 ├── vendor
 │   ├── many libraries

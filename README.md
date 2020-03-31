@@ -1,5 +1,5 @@
 # JS-Simulator
-The code source of the JavaScript simulator with test files
+The code source of the JavaScript simulator used in the CoVprehension.org website, with test files. It is mainly based on the [Particles.js](https://vincentgarreau.com/particles.js/) library.
 
 # Structure
 
